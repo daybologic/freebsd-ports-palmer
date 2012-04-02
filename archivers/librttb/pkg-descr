@@ -1,0 +1,7 @@
+RTTB means Run-Time TarBall. It is inspired by Ken Silverman's kgroup
+kextract code which he used to build archives which were then distributed
+with the games which the Build project was used by. Such games were
+3D Realms' Duke Nukem 3D and Monolith's Blood.
+This is the main library for C programmers.
+
+WWW: http://www.daybologic.co.uk/software.php?content=rttb
