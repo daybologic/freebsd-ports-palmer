@@ -1,0 +1,17 @@
+%%SITE_PERL%%/Chleb.pm
+%%SITE_PERL%%/Chleb/Bible.pm
+%%SITE_PERL%%/Chleb/Bible/Backend.pm
+%%SITE_PERL%%/Chleb/Bible/Base.pm
+%%SITE_PERL%%/Chleb/Bible/Book.pm
+%%SITE_PERL%%/Chleb/Bible/Chapter.pm
+%%SITE_PERL%%/Chleb/Bible/DI/Config.pm
+%%SITE_PERL%%/Chleb/Bible/DI/Container.pm
+%%SITE_PERL%%/Chleb/Bible/Exclusions.pm
+%%SITE_PERL%%/Chleb/Bible/Search/Query.pm
+%%SITE_PERL%%/Chleb/Bible/Search/Results.pm
+%%SITE_PERL%%/Chleb/Bible/Server.pm
+%%SITE_PERL%%/Chleb/Bible/Server/Exception.pm
+%%SITE_PERL%%/Chleb/Bible/Verse.pm
+%%SITE_PERL%%/Chleb/Utils.pm
+@sample etc/chleb-bible-search/log4perl.conf.sample
+@sample etc/chleb-bible-search/main.conf.sample

@@ -1,0 +1,7 @@
+TIMESTAMP = 1731999256
+SHA256 (daybologic-chleb-bible-search-v0.11.0_GH0.tar.gz) = fa69c683582f5d15a121b6776e2916b9b96a50e7e70d13767557323c5db835a8
+SIZE (daybologic-chleb-bible-search-v0.11.0_GH0.tar.gz) = 2784618
+SHA256 (chleb-bible-search-0.11.0.container.patch) = b3795748092b6e10cc81c5ddc14cf9da710563d9ff546b3e03c0a93355652515
+SIZE (chleb-bible-search-0.11.0.container.patch) = 0
+SHA256 (chleb-bible-search-0.11.0.shbang.patch) = f58fb75fa4b6d6c625827954ce0b04ae16f930e3e0d197da5be8d31f6b14e600
+SIZE (chleb-bible-search-0.11.0.shbang.patch) = 0
